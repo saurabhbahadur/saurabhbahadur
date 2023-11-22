@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @saurabhbahadur
-- 👀 I am a passionate Full Stack Developer with expertise in both Java and MERN (MongoDB, Express.js, React.js, and Node.js) technologies.
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on Java Project
-- 📫 Feel free to reach out if you'd like to discuss potential collaborations or have any questions about my work. Let's build great things together!
+# [SaurabhBahadur](https://github.com/saurabhbahadur) 👋
 
-<!---
-saurabhbahadur/saurabhbahadur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## I am a passionate Full Stack Developer with expertise in both Java and MERN (MongoDB, Express.js, React.js, and Node.js) technologies.
+
+## Working in
++ ### [RESTful API](https://github.com/saurabhbahadur/RESTful-API) 
++ ### [java-prep](https://github.com/saurabhbahadur/java-prep)
+
+## Skills
+- Java
+- JavaScript
+- Node JS
+- Express JS
+- MY SQL
+- MongoDB
+- HTML
+- CSS
+- Python
+- Bootstrap
+
+## Education
+| Year | Education |
+| ------:| -----------:|
+| 2024  | Pursuing MCA |
+| 2020  | BCA |
+| 2017  | 12 |
+| 2015  | 10 |
+
+---
+
+# Feel Free to connect
++ ### [LinkedIn](https://www.linkedin.com/in/saurabhbahadur) 
++ ### [Mail](mailto:singhsaurabhbahadur@gmail.com)
++ ### [Instagram](https://www.instagram.com/saurabhbahadur_)
++ ### [Discord](https://discord.gg/aQR27Bg7de)
+
+
