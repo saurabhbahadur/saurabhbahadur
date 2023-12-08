@@ -10,16 +10,16 @@
 + ### [QuoteFul](https://github.com/saurabhbahadur/quoteful)
 
 ## Skills
-- Java
-- JavaScript
-- Node JS
-- Express JS
-- MY SQL
-- MongoDB
-- HTML
-- CSS
-- Python
-- Bootstrap
+- `Java`
+- `JavaScript`
+- `Node JS`
+- `Express JS`
+- `MY SQL`
+- `MongoDB`
+- `HTML`
+- `CSS`
+- `Python`
+- `Bootstrap`
 
 ## Education
 | Year | Education |
