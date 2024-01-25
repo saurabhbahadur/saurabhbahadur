@@ -21,7 +21,7 @@
 
 
 
-![Saurabh GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhbahadur&show_icons=true&theme=merko)
+![Saurabh GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhbahadur&show_icons=true&theme=merko&rank_icon=github)
 
 
 
