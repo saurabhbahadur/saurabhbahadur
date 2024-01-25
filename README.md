@@ -22,6 +22,9 @@
 
 ---
 
+![Saurabh GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhbahadur&show_icons=true&theme=merko)
+
+
 # Feel Free to connect
 + ### [LinkedIn](https://www.linkedin.com/in/saurabhbahadur) 
 + ### [Mail](mailto:singhsaurabhbahadur@gmail.com)
