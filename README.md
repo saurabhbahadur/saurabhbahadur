@@ -21,7 +21,14 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhbahadur&show_icons=true&locale=en&layout=compact&theme=merko" alt="saurabhbahadur" /></p>
+
+
+
+
 ![Saurabh GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhbahadur&show_icons=true&theme=merko)
+
+
 
 
 
