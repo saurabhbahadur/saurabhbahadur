@@ -6,7 +6,7 @@
 
 ## UseFul Repository
 + ### [RESTful API](https://github.com/saurabhbahadur/RESTful-API) 
-+ ### [java-prep](https://github.com/saurabhbahadur/java-prep)
++ ### [java-interview-questions](https://github.com/saurabhbahadur/java-prep)
 + ### [QuoteFul](https://github.com/saurabhbahadur/quoteful)
 
 ## Skills
