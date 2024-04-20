@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Bahadur</h1>
-<h3 align="center">Motivated MCA student with hands-on experience in developing impactful projects. Successfully created an E-Commerce application using Spring Boot, React JS, and Razorpay, demonstrating proficiency in building scalable web solutions. Developed a web application following MVC architecture with Node JS, Express JS, and MongoDB, incorporating Cloudinary for image management and Mapbox for interactive mapping. Hosted applications on GitHub for version control and deployed using platforms like Render for seamless hosting. Possessing a strong foundation in various programming languages, frameworks, and technologies, along with problem-solving skills, I am eager to contribute my expertise to innovative projects in a professional environment.</h3>
+<h3 align="center">Motivated MCA student with hands-on experience in developing impactful projects. Successfully created a
+variety of web applications demonstrating proficiency in building scalable solutions. Developed a web
+application following MVC architecture with Node JS, Express JS, and MongoDB, incorporating
+Cloudinary for image management and Mapbox for interactive mapping. Hosted applications on GitHub for
+version control and deployed using platforms like Render for seamless hosting. Possessing a strong
+foundation in various programming languages, frameworks, and technologies, along with problem-solving
+skills, I am eager to contribute my expertise to innovative projects in a professional environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhbahadur&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhbahadur" /> </p>
 
