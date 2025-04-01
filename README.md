@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Saurabh Bahadur</h1>
-<h3 align="center">Motivated MCA student with hands-on experience in developing impactful projects. Successfully created a
-variety of web applications demonstrating proficiency in building scalable solutions. Developed a web
-application following MVC architecture with Node JS, Express JS, and MongoDB, incorporating
-Cloudinary for image management and Mapbox for interactive mapping. Hosted applications on GitHub for
-version control and deployed using platforms like Render for seamless hosting. Possessing a strong
-foundation in various programming languages, frameworks, and technologies, along with problem-solving
-skills, I am eager to contribute my expertise to innovative projects in a professional environment.</h3>
+<h3 align="center">A Passionate Full-Stack Developer | Java & MERN Stack Enthusiast</h3>
+
+<p>
+🚀 Full Stack Developer | Java & MERN | Backend Specialist<br>
+🎯 Passionate about scalable web solutions, backend systems, and API development.<br>
+📌 Hands-on experience in developing impactful projects using Node.js, Express.js, MongoDB, and Java.<br>
+💡 Skilled in deploying and maintaining applications using GitHub, Render, and cloud services.<br>
+🔍 Always eager to learn and contribute to innovative tech solutions.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhbahadur&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhbahadur" /> </p>
 
-## UseFul Repository
+## 🌍 [Portfolio](https://saurabh-6e678.web.app/)
+ 
+## 📌 Featured Repositories
 
-+ ### [Weather App](https://saurabhbahadur.github.io/Weather-App/)
-+ ### [Atithi Devo Bhava](https://github.com/saurabhbahadur/Atithi-Devo-Bhava)
-+ ### [RESTful API](https://github.com/saurabhbahadur/RESTful-API) 
-+ ### [java-interview-questions](https://github.com/saurabhbahadur/java-prep)
-+ ### [javascript-interview-questions](https://github.com/saurabhbahadur/javascript-interview-questions)
-+ ### [QuoteFul](https://github.com/saurabhbahadur/quoteful)
+- **[YouTube](https://github.com/saurabhbahadur/Youtube) ▶️**
+- **[Weather App](https://saurabhbahadur.github.io/Weather-App/)** 🌦️
+- **[Atithi Devo Bhava](https://github.com/saurabhbahadur/Atithi-Devo-Bhava)** 🏕️
+- **[RESTful API](https://github.com/saurabhbahadur/RESTful-API)** 🌐
+- **[Java Interview Questions](https://github.com/saurabhbahadur/java-prep)** 💡
+- **[JavaScript Interview Questions](https://github.com/saurabhbahadur/javascript-interview-questions)** 🔥
+- **[QuoteFul](https://github.com/saurabhbahadur/quoteful)** ✨
+
 
 ***
 
