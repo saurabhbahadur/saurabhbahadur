@@ -28,14 +28,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,express,react,nodejs,nextjs,mysql,postgres,python,tailwind,git,postman,html,css,js,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,express,react,nodejs,nextjs,mysql,postgres,python,tailwind,git,postman,vscode,html,css,js,docker" />
 </p>
 
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhbahadur&theme=dracula&mode=weekly" width="97%" alt="Dracula Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhbahadur&theme=dracula&mode=weekly" width="80%" alt="Dracula Streak" />
 </div>
 
 
